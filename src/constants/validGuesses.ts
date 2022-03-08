@@ -1,5 +1,4 @@
 export const WORDS = [
-export const VALID_GUESSES = [
   'aliya',
   'trink',
   'campy',
@@ -23,5 +22,5 @@ export const VALID_GUESSES = [
   'locks',
   'mrtee',
   'grad',
-  'adobe'
+  'adobe',
 ]
