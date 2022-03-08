@@ -23,4 +23,5 @@ export const VALID_GUESSES = [
   'locks',
   'mrtee',
   'grad',
+  'adobe'
 ]
